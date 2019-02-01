@@ -1,4 +1,4 @@
 FROM python:latest
 
-CMD pip install awscli
+RUN pip install awscli
 
